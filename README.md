@@ -49,7 +49,6 @@ Como parte do módulo de Front-End, foi criada uma página simples com título e
 ## 🔗 Links úteis
 
 - [Repositório no GitHub](https://github.com/syangbileu17/Trabalho-final-A2-Design-profissional)
-- [Página do projeto (se houver)](https://seuprojeto.com)
 
 ---
 
