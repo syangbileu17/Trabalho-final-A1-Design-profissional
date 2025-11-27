@@ -1,0 +1,7 @@
+Cidade(id_cidade, nome, estado, pais)
+cidade_evento(data, hora, id_cidade,id_evento)
+Evento(id_evento, nome, preço)
+Pontos turisticos(id_ponto, preço, endereço, classificação, descrição,id_cidade)
+Hotel(id_hotel, nome, endereço, descrição,classificação,id_cidade)
+Serviço turistico(id_serviço, endereço, nome, classificação,id_cidade)
+Tipo serviço(id_tipo, descrição, id_serviço)
