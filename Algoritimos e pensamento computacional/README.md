@@ -1,4 +1,4 @@
-# 🌟 Projetos – Algoritmos e Pensamento Computacional
+# Projetos – Algoritmos e Pensamento Computacional
 Olá! Este repositório reúne os trabalhos desenvolvidos na disciplina Algoritmos e Pensamento Computacional, explorando desde conceitos iniciais de lógica até estruturas mais avançadas. Ele funciona como um registro da minha evolução e como um espaço para reforçar os fundamentos da programação.
 
 📚 Tópicos Estudados
