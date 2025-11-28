@@ -8,10 +8,8 @@ O projeto reúne conteúdos e práticas aplicadas ao longo do curso, integrando 
 
 ## 📁 Estrutura do Repositório
 
-O projeto está organizado em quatro módulos principais:
-
 - **Algoritmos e Pensamento Computacional**  
-  Conteúdos e exercícios ligados à lógica de programação e raciocínio computacional.
+  Conteúdos e exercícios ligados à lógica de programação.
 
 - **Desenvolvimento Front-End**  
   Práticas com HTML, CSS e JavaScript para construção de interfaces web.
@@ -24,32 +22,12 @@ O projeto está organizado em quatro módulos principais:
 
 ---
 
-## 🚀 Tecnologias Utilizadas
-
-- HTML5
-- CSS3
-- JavaScript
-- Git & GitHub
-- SQL
-
----
-
-## 📌 Objetivo
-
-Demonstrar a integração entre design e desenvolvimento, aplicando os conhecimentos adquiridos ao longo da disciplina em um projeto final completo.
-
----
-
 ## 📷 Fanpage de Gatinhos
 
 Como parte do módulo de Front-End, foi criada uma página simples com título e imagem, aplicando conceitos de HTML básico.
 
 ---
 
-## 🔗 Links úteis
-
-- [Repositório no GitHub](https://github.com/syangbileu17/Trabalho-final-A2-Design-profissional)
-
----
-
 **Desenvolvido com 💙 por Syang de Battisti**
+
+corrige formataçao do README
